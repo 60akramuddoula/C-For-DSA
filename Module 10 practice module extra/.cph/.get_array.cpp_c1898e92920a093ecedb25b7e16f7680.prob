@@ -1,0 +1,1 @@
+{"name":"Local: get_array","url":"d:\\C++ For DSA\\practice module 1\\get_array.cpp","tests":[{"id":1690027299242,"input":"5\n1 2 3 4 5","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ For DSA\\practice module 1\\get_array.cpp","group":"local","local":true}
